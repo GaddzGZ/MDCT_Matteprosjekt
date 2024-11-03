@@ -1,3 +1,5 @@
+#Koden er laget med hjelp av ChatGPT
+
 import numpy as np
 import librosa
 import scipy.fftpack
